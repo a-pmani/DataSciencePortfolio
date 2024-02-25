@@ -25,7 +25,7 @@ Happy exploring!
 
 - [Customer Segmentation by clustering using RFM Scores](https://github.com/a-pmani/DataSciencePortfolio/blob/main/CustomerSegmentation/CustomerSegmentation_UKRetail%20.ipynb)
 
-- Wines Sales prediction(https://github.com/apmani/DataSciencePortfolio/blob/main/WineSalesPrediction/Dataexploration_VisualAnalysis_PCA.ipynb)
+- [Wines Sale prediction](https://github.com/apmani/DataSciencePortfolio/blob/main/WineSalesPrediction/Dataexploration_VisualAnalysis_PCA.ipynb)
     
 ## NLP:
  
