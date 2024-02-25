@@ -1,0 +1,10 @@
+While businesses strive hard to satisfy all the customers that come to them, it is important that 
+  they identify their loyal and regular customers who bring in a big portion of regular revenue. 
+Customer Segmentation has been a proven tool to help businesses learn more about their customers. 
+  Traditional segmentation methods involve demographical and psychographical strategies which may not be accurate in today's market.
+
+RFM based analysis and segmentation gives a quantitative approach to understanding customers. 
+RFM stands for 'RECENCY','FREQUENCY' and 'MONETARY'. This analysis helps us identify 3 segments of customers typically - 'Low Value','Mid Value' and 'High Value'.
+
+Credits: https://archive.ics.uci.edu/ml/datasets/online+retail This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and 
+registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
