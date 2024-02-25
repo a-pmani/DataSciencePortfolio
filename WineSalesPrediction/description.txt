@@ -1,0 +1,5 @@
+The goal of the study is to predict the number of wine cases ordered by wine distributors based upon each 
+wine type’s chemical characteristics, label appeal and “star ratings”. 
+This the wine manufacturer to adjust their wine offering and maximize their sales. 
+Assuming the role of external strategy consultants, 
+we have explored and assessed different factors to come up with recommendations for the Corporate Strategy team.
