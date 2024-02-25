@@ -15,7 +15,7 @@ Projects:
 
   ML:
   
-    1. Housing Price Analysis using advanced Regression models [GitHub](https://github.com)
+    1. Housing Price Analysis using advanced Regression models 
 
     2. Analyzing the San Ramon housing market
 
@@ -34,4 +34,8 @@ Projects:
     3. Automating literature review using NLP techniques
 
     4.Toxic comments analysis using NLP and classification techniques
+## Description
 
+This project demonstrates how to create a hyperlink in Markdown. Below is an example of adding a hyperlink to text:
+
+Click [here](https://www.example.com) to visit Example Website.
