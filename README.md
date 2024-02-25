@@ -1,3 +1,5 @@
+<h1 align="center"> My Data Science Portfolio </h1> <br>
+
 Welcome to my data science portfolio! My name is Alarmelu, and I'm passionate about leveraging data-driven insights and AI tools to solve real-world problems. 
 In this repository, you'll find a collection of my data science projects, showcasing my skills in data analysis, machine learning, NLP techiniques, recommender systems and predictive modeling.
 
@@ -11,12 +13,18 @@ Thank you for visiting, and I hope you find inspiration and value in my data sci
 
 Happy exploring!
 
-## Projects:
+<p align="center">
+  <a href=“https://tracking.gitads.io/?repo=MyDataSciencePortfolio”><img src="https://images.gitads.io/MyDataSciencePortfolio" alt=“GitAds”/></a>
+</p>
 
-  ML:
+## Projects
+- [Housing Price Analysis using advanced Regression models]([#introduction](https://github.com/a-pmani/DataSciencePortfolio/blob/main/AdvancedRegression/HousingPriceAnalysis_EDA.ipynb))
+
+## :
+
+  ## ML:
   
-    1. [Housing Price Analysis using advanced Regression models](https://github.com/a-pmani/DataSciencePortfolio/tree/main/AdvancedRegression)
-
+    1. 
     2. Analyzing the San Ramon housing market
 
     3. Classifcation using Gradient boosting and XGBoost.
