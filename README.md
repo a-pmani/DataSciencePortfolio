@@ -19,20 +19,20 @@ Happy exploring!
   
   - [Housing Price Analysis using advanced Regression models](https://github.com/a-pmani/DataSciencePortfolio/blob/main/AdvancedRegression/HousingPriceAnalysis_EDA.ipynb)
     
-    2. Analyzing the San Ramon housing market
+- [Analyzing the San Ramon housing market](https://github.com/a-pmani/DataSciencePortfolio/blob/main/SanRamonHousingMarket/BAN612_SRHousingMarketAnalysis_AlarmeluPM_TJ6723.ipynb)
 
-    3. Classifcation using Gradient boosting and XGBoost.
+- Classifcation using Gradient boosting and XGBoost.
 
-    4. Customer Segmentation by clustering using RFM Scores
+- [Customer Segmentation by clustering using RFM Scores](https://github.com/a-pmani/DataSciencePortfolio/blob/main/CustomerSegmentation/CustomerSegmentation_UKRetail%20.ipynb)
 
-    5. Wines Sales prediction
+- Wines Sales prediction(https://github.com/a-pmani/DataSciencePortfolio/blob/main/WineSalesPrediction/Dataexploration_VisualAnalysis_PCA.ipynb)
     
 ## NLP:
  
-    1. Analysis of the F.R.I.E.N.D.S Corpus
+- Analysis of the F.R.I.E.N.D.S Corpus
     
-    2. Airline sentiment analysis
+- [Airline sentiment analysis](https://github.com/a-pmani/DataSciencePortfolio/blob/main/TwitterAirlineSentimentAnalysis/AirlineSentiment_Analysis.ipynb)
     
-    3. Automating literature review using NLP techniques
+- [Automating literature review using NLP techniques](https://github.com/a-pmani/DataSciencePortfolio/blob/main/AutomatingLiteratureReviews/description.txt)
 
-    4.Toxic comments analysis using NLP and classification techniques
+- [Toxic comments analysis using NLP and classification techniques](https://github.com/a-pmani/DataSciencePortfolio/blob/main/ToxicCommentsClassification/Toxiccomment_classification_NLP_ML.ipynb)
