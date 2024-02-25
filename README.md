@@ -33,6 +33,6 @@ Happy exploring!
     
 - [Airline sentiment analysis](https://github.com/a-pmani/DataSciencePortfolio/blob/main/TwitterAirlineSentimentAnalysis/AirlineSentiment_Analysis.ipynb)
     
-- [Automating literature review using NLP techniques](https://github.com/a-pmani/DataSciencePortfolio/blob/main/AutomatingLiteratureReviews/description.txt)
+- [Automating literature review using NLP techniques](https://github.com/a-pmani/DataSciencePortfolio/blob/main/LiteratureReviewRecSys/description.txt)
 
 - [Toxic comments analysis using NLP and classification techniques](https://github.com/a-pmani/DataSciencePortfolio/blob/main/ToxicCommentsClassification/Toxiccomment_classification_NLP_ML.ipynb)
