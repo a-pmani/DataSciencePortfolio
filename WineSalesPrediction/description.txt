@@ -1,0 +1,2 @@
+The purpose of project file is to first classify the missing values in the STARS column and use the completed dataset set which we will name as
+  df_final to proceed and build models. This file has 2 sections accordingly. One is for Data preparation and imputations for STARS Models section to predict the TARGET column
