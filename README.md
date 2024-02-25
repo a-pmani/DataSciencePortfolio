@@ -15,7 +15,7 @@ Projects:
 
   ML:
   
-    1. [Housing Price Analysis using advanced Regression models](https://github.com/a-pmani/DataSciencePortfolio/blob/main/AdvancedRegression/HousingPriceAnalysis_EDA.ipynb)
+    1. [Housing Price Analysis using advanced Regression models](https://github.com/a-pmani/DataSciencePortfolio/blob/main/AdvancedRegression/)
     
     2. Analyzing the San Ramon housing market
 
