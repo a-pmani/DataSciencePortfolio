@@ -13,3 +13,5 @@ Kaggle link: https://www.kaggle.com/Cornell-University/arxiv
 More details on the dataset: 
 No. of records - 32998
 No. of attributes – 14
+
+Please go through the entire directory for the full project details
