@@ -11,11 +11,11 @@ Thank you for visiting, and I hope you find inspiration and value in my data sci
 
 Happy exploring!
 
-Projects:
+## Projects:
 
   ML:
   
-    1. Housing Price Analysis using advanced Regression models 
+    1. [Housing Price Analysis using advanced Regression models](https://github.com/a-pmani/DataSciencePortfolio/tree/main/AdvancedRegression)
 
     2. Analyzing the San Ramon housing market
 
@@ -34,8 +34,3 @@ Projects:
     3. Automating literature review using NLP techniques
 
     4.Toxic comments analysis using NLP and classification techniques
-## Description
-
-This project demonstrates how to create a hyperlink in Markdown. Below is an example of adding a hyperlink to text:
-
-Click [here](https://www.example.com) to visit Example Website.
