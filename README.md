@@ -22,6 +22,8 @@ Projects:
     3. Classifcation using Gradient boosting and XGBoost.
 
     4. Customer Segmentation by clustering using RFM Scores
+
+    5. Wines Sales prediction
     
  NLP:
  
