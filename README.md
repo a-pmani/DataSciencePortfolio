@@ -18,8 +18,6 @@ Happy exploring!
 ## ML:
   
     1. Housing Price Analysis using advanced Regression models
-
-    [Customer Churn Study](https://github.com/KevinLiao159/MyDataSciencePortfolio/tree/master/churn_study)
     
     2. Analyzing the San Ramon housing market
 
