@@ -29,10 +29,4 @@ Projects:
     3. Automating literature review using NLP techniques
 
     4.Toxic comments analysis using NLP and classification techniques
- Others:
- 
-    1.Marketing data analysis using tableau visualizations
-    
-    2.Supply network optimiation
-    
-    3.Walmart's Sales Forecasting(in R)
+
