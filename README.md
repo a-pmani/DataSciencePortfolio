@@ -20,6 +20,8 @@ Projects:
     2. Analyzing the San Ramon housing market
 
     3.Classifcation using Gradient boosting and XGBoost.
+
+    4. Customer Segmentation by clustering using RFM Scores
  NLP:
  
     1. Analysis of the F.R.I.E.N.D.S Corpus
