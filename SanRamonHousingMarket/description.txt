@@ -1,0 +1,5 @@
+The purpose of this notebook is to explore the San Ramon housing data we scraped as part of the project and provide insights on the factors that drive the housing prices in San Ramon
+
+#Predict the housing price using the identified features of the dataset and compare the developed model to illow's Zestimate feature
+# Techniques used
+  Data scraping, cleaning and analysis
