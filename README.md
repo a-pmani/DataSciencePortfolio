@@ -30,6 +30,8 @@ Happy exploring!
 ## NLP:
  
 - Analysis of the F.R.I.E.N.D.S Corpus
+  
+- [Resume recommender system](https://github.com/a-pmani/DataSciencePortfolio/blob/main/ResumeRecommenderSystem/description.txt)
     
 - [Airline sentiment analysis](https://github.com/a-pmani/DataSciencePortfolio/blob/main/TwitterAirlineSentimentAnalysis/AirlineSentiment_Analysis.ipynb)
     
