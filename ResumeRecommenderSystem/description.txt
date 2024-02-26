@@ -1,0 +1,4 @@
+Finding a suitable candidate for an open role could be an unnerving task, especially when there is a pool of resumes to choose from.
+  It can slow down the process of getting the right candidate at the right time. An automated “Resume Recommendation Engine” could ease the tedious process of fair screening,
+shortlisting resumes and be very effective in saving cost and time associated with it. This engine could work with a large number of resumes by identifying the key skills and, 
+  then ranking the candidates based on their matched skills. It is also capable of finding the most relevant resume to the job description based on cosine similarities
