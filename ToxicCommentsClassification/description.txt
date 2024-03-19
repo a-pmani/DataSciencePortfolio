@@ -1,3 +1,8 @@
 Developing a toxic comment classifier using NLP techniques and basic ML classifiers
 
-Toxic Comment Classification is a project utilizing Natural Language Processing (NLP) and machine learning techniques to identify and categorize toxic comments in online discussions and social media platforms. With the proliferation of online communities, addressing toxic behavior such as hate speech, harassment, and offensive language has become imperative for fostering a safe and inclusive online environment.
+Toxic Comment Classification is a project utilizing Natural Language Processing (NLP) 
+and machine learning techniques to identify and categorize toxic comments in
+online discussions and social media platforms. 
+With the proliferation of online communities, addressing toxic behavior 
+such as hate speech, harassment, and offensive language 
+has become imperative for fostering a safe and inclusive online environment.
