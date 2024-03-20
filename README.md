@@ -29,7 +29,7 @@ Happy exploring!
     
 ## NLP:
  
-- Analysis of the F.R.I.E.N.D.S Corpus
+- [Analysis of the F.R.I.E.N.D.S Corpus](https://github.com/a-pmani/DataSciencePortfolio/blob/main/FRIENDSCorpus/description.txt)
   
 - [Resume recommender system](https://github.com/a-pmani/DataSciencePortfolio/blob/main/ResumeRecommenderSystem/description.txt)
     
