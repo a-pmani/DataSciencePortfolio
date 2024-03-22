@@ -21,8 +21,6 @@ Happy exploring!
     
 - [Analyzing the San Ramon housing market](https://github.com/a-pmani/DataSciencePortfolio/blob/main/SanRamonHousingMarket/BAN612_SRHousingMarketAnalysis_AlarmeluPM_TJ6723.ipynb)
 
-- Classifcation using Gradient boosting and XGBoost.
-
 - [Customer Segmentation by clustering using RFM Scores](https://github.com/a-pmani/DataSciencePortfolio/blob/main/CustomerSegmentation/CustomerSegmentation_UKRetail%20.ipynb)
 
 - [Wines Sales prediction](https://github.com/apmani/DataSciencePortfolio/blob/main/WineSalesPrediction/Dataexploration_VisualAnalysis_PCA.ipynb)
